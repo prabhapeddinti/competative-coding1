@@ -1,0 +1,4 @@
+class Solution:
+    # Just print the space seperated array elements
+	def printArray(self, arr):
+	    print(*arr,end = " ")
